@@ -1,0 +1,1 @@
+database(mySql) settings: Settings\settings.php
